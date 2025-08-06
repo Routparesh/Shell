@@ -1,4 +1,3 @@
 # Shell
 
-Schell Scripts
-update
+Schell Scripts for reference
